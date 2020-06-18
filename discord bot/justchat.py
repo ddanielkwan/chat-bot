@@ -13,7 +13,7 @@ def main():
                 
         else:
             status = False
-            print("Chatbot: bye")
+            print("Chatbot: bye!")
         
     return
 main()
