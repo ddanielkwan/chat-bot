@@ -8,7 +8,7 @@ import string
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 lemmatizer = WordNetLemmatizer()
-#do not touch this
+#do not touch
 
 f = open('testing.txt','r',encoding='utf-8')
 text = f.read()
