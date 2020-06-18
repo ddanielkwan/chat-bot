@@ -9,7 +9,7 @@ from chat import *
 
 
 
-TOKEN = "NzAxNDY3MzA5MTM0NDQ2NzMz.Xp9GNw.Q9CWG2ehIw7GinDJxhb3TQjg9X4"
+TOKEN = "NzAxNDY3MzA5MTM0NDQ2NzMz.XuufuA.toa5UmcRWdssYmeMAnN6MkS7BGA"
 cid = "701467309134446733"
 memcount = 0
 client = discord.Client()
@@ -77,7 +77,7 @@ async def on_message(message):
         for i in serverid.members:
             i = str(i)
             await message.channel.send("{}".format(i))
-            
+
     elif message.content == "chat":
         msg = await client.wait_for('message')
         while(msg != 'leave'):
