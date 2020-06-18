@@ -1,0 +1,91 @@
+The Power of the Pawn
+While the modern game has run away with embellishments to the "back row" characters, the original chatrang featured the pawn. The game's rules were simple enough that the pawn was almost a principal piece. Pawns could cluster and trap other pieces more effectively in their large numbers.
+
+In chess, each piece carries some weight. The French ambassador Foix noted that "If we lose a Pawn it seems a small matter; but the loss often brings with it that of the whole game." (1) The possibilities in chess are such that a single pawn can determine an entirely different flow in the course of the game. Although we have previously seen an overriding medieval hierarchy, consider that a pawn may save a king or take a knight or rook. So even a smart pawn can lead to victory!
+
+The Vulnerability of the Pawn
+The other side of the story is that a pawn is a bargaining chip. The player throws his pawns at the enemy to take more significant pieces. The king is not so powerful without his lowly pawns, but this possibility is always there.
+
+As a result, the pawn is almost always an undistinguished piece. Which is a shame, in light of the above. Crucially, however, the pawn is a mere tool in the course of winning the game. Henceforth and forever, the pawn is a figure without agency. Extended further, the pawn is at the will of authority.
+
+We're all Pawns
+Except for the king, of course. Playing chess, you transcend your existence as a pawn and momentarily get to be king.
+
+Consequences: Status
+John Locke's Essay Concerning Human Understanding cites a common theme that although the figures live out their duties on the chessboard, most of the time they are thrown into a bag and stored together. Tragically, this became a metaphor for the human condition.
+
+In a sense, we are each drawn from the bag to play out our certain role and follow the rules that have been deigned to us by the world. At the end of the game, everybody - from king to pawn - is thrown into the same receptacle (which to many serves as the afterlife). This of course has certain implications: 1) that life and fate are random, 2) that we are bound to serve our duty, and 3) that we are all equal in death. The last point was extended to imply that one not seek to change his or her status during his or her lifetime, thus serving the narrative nobles created for feudal society. And although chess later became a democratizing factor (as will follow), even up to Locke's Enlightenment this view was meant to silence the masses.
+
+If you've ever seen a human chess match, you can see the metaphor lives on. We are all players on the stage, or equally, on the chessboard. Remaining today is the human feeling that some greater influence and or rule-set is in charge.(2)
+
+Consequences: Occupation
+
+Chess is constant with regards to occupation. It solidifies certain roles in the codification of its pieces - the royalty, bishop, knight, rook, and pawn. In effect, the game might be hard to coalesce with a contemporary narrative on occupation. Regardless, the game reflects a constant construction of borrowed monarchical traits from the Indian caste system, to the Persian kings, to the medieval.
+
+With these categories, it may be seen that indirectly every person is under the influence of some king and/or queen. The wide category of the pawn seems to swallow the recently developed positions of scientist or philosopher - effectively homogenizing classes of no external authority. Those powers that are emphasized are the king and queen (dictatorial and social authority), the bishop (religious), and war-making (rook = chariot, knight). Chess would imply that all other pursuits serve the aims of these greater authorities in reality. They are not the sources of agency in chess.
+
+Consequences: Gender
+The queen did not gain her advanced movements until the 15th century. During the Persian/Indian play of the game, the piece in the queen's place was an underpowered minister to the king. While the exact reason for the change is unknown, it probably has to do in part with 1) the increased play of female scholars in the game and 2) the adoption of chess as a pastime for courtly love.
+
+During medieval times, the role of the female was increasing, as disputes between kingdoms often rested on familial ties. In the Renaissance, we also witnessed women becoming monarchs in their own right. Thus, the game became a sort of narrative on sexual equality. Thomas Middleton's, A Game at Chess, describes a royal wedding fracas in terms of chess - and indeed, even domestic disputes could be modeled through chess. Perhaps, it is suggested, the strength of the queen piece was used as a ploy to bring Renaissance women to the table. Rather than play to win, courtiers would attempt to complement women on their chess games. It is no doubt why, during this time period, that there emerged books that described how to make moves based on a dice roll instead of by cunning intelligence.(3)
+
+I am sad
+
+Don't be sad
+
+Chess is a two-player strategy board game played on a checkered board with 64 squares arranged in an 8×8 grid. Played by millions of people worldwide, chess is believed to be derived from the Indian game chaturanga sometime before the 7th century. 
+
+Play involves no hidden information. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. Each piece type moves differently, with the most powerful being the queen and the least powerful the pawn. The objective is to checkmate the opponent's king by placing it under an inescapable threat of capture. To this end, a player's pieces are used to attack and capture the opponent's pieces, while supporting one another. During the game, play typically involves exchanging pieces for the opponent's similar pieces, and finding and engineering opportunities to trade advantageously or to get a better position. In addition to checkmate, a player wins the game if the opponent resigns, or, in a timed game, runs out of time. There are also several ways that a game can end in a draw.
+
+The first generally recognized World Chess Champion, Wilhelm Steinitz, claimed his title in 1886. Since 1948, the World Championship has been regulated by the Fédération Internationale des Échecs (FIDE), the game's international governing body. FIDE also awards life-time master titles to skilled players, the highest of which is Grandmaster (GM). Many national chess organizations have a title system of their own. FIDE also organizes the Women's World Championship, the World Junior Championship, the World Senior Championship, the Blitz and Rapid World Championships, and the Chess Olympiad, a popular competition among international teams. FIDE is a member of the International Olympic Committee, which can be considered recognition of chess as a sport.[1] Several national sporting bodies (e.g. the Spanish Consejo Superior de Deportes[2]) also recognize chess as a sport. Chess was included in the 2006 and 2010 Asian Games. There is also a Correspondence Chess World Championship and a World Computer Chess Championship. Online chess has opened amateur and professional competition to a wide and varied group of players.
+
+Since the second half of the 20th century, chess engines have been programmed to play with increasing success, to the point where the strongest programs play at a higher level than the best human players. Since the 1990s, computer analysis has contributed significantly to chess theory, particularly in the endgame. The IBM computer Deep Blue was the first machine to overcome a reigning World Chess Champion in a match when it defeated Garry Kasparov in 1997. The rise of strong chess engines runnable on hand-held devices has led to increasing concern about cheating during tournaments.
+
+There are many variants of chess that utilize different rules, pieces, or boards. One of these, Fischer Random Chess, has gained widespread popularity and official FIDE recognition.
+In competitive games, the colors are allocated by the organizers; in informal games, the colors are usually decided randomly, for example by coin toss, or by one player's concealing a white and black pawn in either hand and having the opponent choose. White moves first, after which players alternate turns, moving one piece per turn (except for castling, when two pieces are moved). A piece is moved to either an unoccupied square or one occupied by an opponent's piece, which is captured and removed from play. With the sole exception of en passant, all pieces capture by moving to the square that the opponent's piece occupies.
+
+Moving is compulsory; it is illegal to skip a turn, even when having to move is detrimental. A player may not make any move that would put or leave the player's own king in check. If the player to move has no legal move, the game is over; the result is either checkmate (a loss for the player with no legal move) if the king is in check, or stalemate (a draw) if the king is not.
+
+Each piece has its own way of moving. In the diagrams, the dots mark the squares to which the piece can move if there are no intervening piece(s) of either color (except the knight, which leaps over any intervening pieces).
+
+Time control
+In competition, chess games are played with a time control. If a player's time runs out before the game is completed, the game is automatically lost (provided the opponent has enough pieces left to deliver checkmate). The duration of a game ranges from long (or "classical") games, which can take up to seven hours (even longer if adjournments are permitted), to bullet chess (under 3 minutes per player for the entire game). Intermediate between these are rapid chess games, lasting between 20 minutes and two hours per game, a popular time control in amateur weekend tournaments.
+
+Time is controlled using a chess clock that has two displays, one for each player's remaining time. Analog chess clocks have been largely replaced by digital clocks, which allow for time controls with increments.
+
+Time controls are also enforced in correspondence chess competition. A typical time control is 50 days for every 10 moves.
+
+
+A unicorn is a legendary and mythical creature. It looks like a pony with one long, single and white horn on its head. The word unicorn means literally "one-horn". It comes from the Latin word ūnus, which means one, and cornu which means horn, which term is in itself borrowed from the earlier Greek word monokerōs (also 'one horned').
+
+Unicorns are found in many stories and myths from different parts of the world, especially China and India. Its blood and horn usually have mystical powers. In Western culture, its horn is said to have power (often called alicorn in medieval literature) to heal wounds and sickness, and to neutralize poison.
+
+In mythology and heraldry unicorn symbolizes innocence, purity and feminine power. It is often seen as the counterpart of lion, which symbolizes the masculine virtues.
+
+The unicorn is the official animal of Scotland.[1]
+
+In some pictures unicorns also have horses feet or a lion's tail.
+
+A Narwhal is an animal that is about 8 feet long. They live in the water around Canada and Greenland. Narwhal’s horns were said to be the horns of unicorns by some. People would sell the horn of a narwhal to others and say it was a horn of a unicorn. Christian legends say the Unicorn is as small as a normal sized goat. They are so fearful that no hunter can catch them. Only a maiden that goes into the forest alone can catch a unicorn. The unicorn will come and fall asleep in the maiden’s lap. Around the time of the Middle Ages, some stories of unicorns became more popular. More people got in to learning about unicorns. They would even just want to see a picture of them. People with royal blood, or others of high class, bought what were said to be the horns of a unicorn at very high prices. They were mostly a tusk of a walrus or a horn from a narwhal.
+
+The term unicorn is also used in business to refer to a business startup valued at a billion dollars or more.[2]
+
+  In ancient Greek and Roman mythology, a mystical creature known as the unicorn made many appearances. As described throughout much of literature, the unicorn is reputed to look somewhat like a white horse, although it has a long, twisted horn protruding from its forehead.1 The earliest description of the unicorn was by Ctesias (400 BC) (The New Book of Knowledge, Vol. U-V 19: 391). Unicorns have cloven hooves that are somewhat yellow in color; some are said to have a lion-like tail. Male unicorns can be distinguished from their female counterparts mainly in part of the goat-like beard beneath the chin. Also, the females are more elegant and have a slimmer muscle frame. The typical European unicorn has a coat of hair that is pure white, and has eyes that are either deep sea blue or fiery pink. Long and silky strands of white hair hand down from its mane and forelock. In his book, The Last Unicorn, Peter S. Beagle describes this mythological creature as looking nothing "like a horned horse...[as she was] smaller and cloven-hoofed" (1). In his book, Beagle's unicorn was the "color of sea foam" when it was young; as it aged, its color changed to the "color of snow falling on a moonlit night" (1). A unicorn's horn is white, silver, or golden in color, is about two to three feet in length, and is said to have special healing powers.
+
+    In ancient Greek and Roman mythology, a mystical creature known as the unicorn made many appearances. As described throughout much of literature, the unicorn is reputed to look somewhat like a white horse, although it has a long, twisted horn protruding from its forehead.1 The earliest description of the unicorn was by Ctesias (400 BC) (The New Book of Knowledge, Vol. U-V 19: 391). Unicorns have cloven hooves that are somewhat yellow in color; some are said to have a lion-like tail. Male unicorns can be distinguished from their female counterparts mainly in part of the goat-like beard beneath the chin. Also, the females are more elegant and have a slimmer muscle frame. The typical European unicorn has a coat of hair that is pure white, and has eyes that are either deep sea blue or fiery pink. Long and silky strands of white hair hand down from its mane and forelock. In his book, The Last Unicorn, Peter S. Beagle describes this mythological creature as looking nothing "like a horned horse...[as she was] smaller and cloven-hoofed" (1). In his book, Beagle's unicorn was the "color of sea foam" when it was young; as it aged, its color changed to the "color of snow falling on a moonlit night" (1). A unicorn's horn is white, silver, or golden in color, is about two to three feet in length, and is said to have special healing powers.
+
+    Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. 
+
+The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
+
+At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available.
+
+testing this
+
+okay tested.
+
+next .
