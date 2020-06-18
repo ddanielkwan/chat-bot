@@ -1,1 +1,1 @@
-- Database column size varchar too small
+- Database col size varchar too small
